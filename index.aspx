@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ﻿<%@ Page Language="C#" %>
 
+=======
+﻿<%@ Page Language="C#" %>
+
+>>>>>>> origin/master
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -46,7 +51,11 @@
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon icon-menu " style="font-size:30px; color:#3498db;"></span>
+<<<<<<< HEAD
           </button>
+=======
+          </button>
+>>>>>>> origin/master
             <a class="navbar-brand" href="#home"><img src="assets/img/dreamsceneLogo1.png"/></a>
         </div>
         <div class="navbar-collapse collapse">
@@ -66,7 +75,11 @@
   
 		<!-- ==== HEADERWRAP ==== -->
 	    <div id="headerwrap" id="home" name="home">
+<<<<<<< HEAD
 			<header class="clearfix">
+=======
+			<header class="clearfix">
+>>>>>>> origin/master
 			   <h1>At Dreamscene Solutions,</h1>
 	  		 		<p>Our main focus is on Website Development, Web Systems and Mobile Apps. Secondary Activites include: Logo Design, Business Card Design and Poster Designs</p>
 	  		 		
@@ -105,11 +118,19 @@
 				
 				<div class="col-lg-6">
 					<h4>Company Overview</h4>
+<<<<<<< HEAD
                     <p>Dreamscene Solutions is a registered private company that was founded in January 2016 by Maxwell Masasi and Tanyaradzwa Masasi. It was birthed to explore the market of software development through unparalled service delivery that stems from developing a relationship with our clients.
 </p>
 				</div><!-- col-lg-6 -->
 				
 				<div class="col-lg-6">
+=======
+                    <p>Dreamscene Solutions is a registered private company that was founded in January 2016 by Maxwell Masasi and Tanyaradzwa Masasi. It was birthed to explore the market of software development through unparalled service delivery that stems from developing a relationship with our clients.
+</p>
+				</div><!-- col-lg-6 -->
+				
+				<div class="col-lg-6">
+>>>>>>> origin/master
 				    <h4>Company Strategy</h4>
 					<p><span style="font-weight: bold">Purpose:</span> To be a leader in the software development industry by providing enhanced services, relationship and profitability.</p>
                     <p><span style="font-weight: bold">Vision: </span>To provide quality services that exceeds the expectations of our esteemed customers.</p>
@@ -133,27 +154,45 @@
 			<br>
             <h1 class="centered">SERVICES WE OFFER</h1>
 			<br>
+<<<<<<< HEAD
 			
             <div class="row">
 			    <span class="fa fa-globe fa-3x"></span>
+=======
+			
+            <div class="row">
+			    <span class="fa fa-globe fa-3x"></span>
+>>>>>>> origin/master
 				<h2 class="centered">WEB DEVELOPMENT & E-Commerce SOLUTIONS</h2>
 				<hr>
 				<br>
 				<div class="col-lg-offset-2 col-lg-8">
 					<p>What if it was possible to showcase your passion and talent to 2 billion people and keep in mind, this number is increasing daily? 
 					</p>
+<<<<<<< HEAD
                     <p> With a world that is increasing its reliabilty and source of information more and more on the internet your presence online is now a necessity and no longer a luxury.</p>
 
 				        <p>Let us be your helping hand in establishing your online presence through our world class online solutions that suit from musicians to medical fields to retailers.
 
+=======
+                    <p> With a world that is increasing its reliabilty and source of information more and more on the internet your presence online is now a necessity and no longer a luxury.</p>
+
+				        <p>Let us be your helping hand in establishing your online presence through our world class online solutions that suit from musicians to medical fields to retailers.
+
+>>>>>>> origin/master
 				        </p>
                 
 					<img class="img-responsive" src="assets/img/webTools.jpg" alt="">
 				</div><!-- col-lg -->
 			</div>
             <!-- row -->
+<<<<<<< HEAD
 			<div class="row">
 			    <span class="fa fa-mobile-phone fa-3x"></span>
+=======
+			<div class="row">
+			    <span class="fa fa-mobile-phone fa-3x"></span>
+>>>>>>> origin/master
 				<h2 class="centered">MOBILE DEVELOPMENT</h2>
 				<hr>
 				<br>
@@ -368,7 +407,11 @@
 		</div><!-- container -->
       <!-- ==== SECTION DIVIDER6 ==== -->
 		<section class="section-divider textdivider divider6">
+<<<<<<< HEAD
 			<div class="container">
+=======
+			<div class="container">
+>>>>>>> origin/master
 				<h1>MADE IN AFRICA WITH THE WORLD IN MIND.</h1>
 				<hr>
 				<p>128 Steve Biko Street, Potchefstroom</p>
